@@ -1,0 +1,1001 @@
+branch_id,city,employees_count,sales_amount,monthly_plan,percent,result
+branch00006,Тольятти,57,171620,204698,83.84,not complete plan
+branch00007,Санкт-Петербург,6,146726,244973,59.89,not complete plan
+branch00007,Санкт-Петербург,6,289032,244973,117.99,complete plan
+branch00007,Санкт-Петербург,6,217456,244973,88.77,not complete plan
+branch00010,Ижевск,6,166443,219209,75.93,not complete plan
+branch00010,Ижевск,6,124672,219209,56.87,not complete plan
+branch00011,Тюмень,28,61698,278329,22.17,not complete plan
+branch00012,Тюмень,56,147129,153870,95.62,complete plan
+branch00013,Самара,60,18769,201499,9.31,not complete plan
+branch00013,Самара,60,163012,201499,80.9,not complete plan
+branch00016,Нижний Новгород,92,121048,179593,67.4,not complete plan
+branch00017,Пермь,46,118610,9296,1275.93,complete plan
+branch00018,Омск,22,203125,56833,357.41,complete plan
+branch00020,Уфа,16,241231,195811,123.2,complete plan
+branch00024,Омск,8,57211,122205,46.82,not complete plan
+branch00027,Новосибирск,73,395705,267373,148.0,complete plan
+branch00028,Ростов-на-Дону,83,322952,148790,217.05,complete plan
+branch00030,Тольятти,27,52584,156684,33.56,not complete plan
+branch00030,Тольятти,27,396603,156684,253.12,complete plan
+branch00032,Самара,40,271115,294948,91.92,complete plan
+branch00032,Самара,40,427270,294948,144.86,complete plan
+branch00033,Новосибирск,32,160518,76468,209.92,complete plan
+branch00033,Новосибирск,32,59021,76468,77.18,not complete plan
+branch00034,Екатеринбург,51,327243,262456,124.68,complete plan
+branch00034,Екатеринбург,51,245789,262456,93.65,complete plan
+branch00036,Красноярск,23,76180,33380,228.22,complete plan
+branch00038,Челябинск,88,163848,60205,272.15,complete plan
+branch00046,Уфа,10,220902,232290,95.1,complete plan
+branch00047,Самара,7,346306,114073,303.58,complete plan
+branch00047,Самара,7,30402,114073,26.65,not complete plan
+branch00047,Самара,7,232139,114073,203.5,complete plan
+branch00052,Краснодар,53,157511,56937,276.64,complete plan
+branch00052,Краснодар,53,361185,56937,634.36,complete plan
+branch00053,Волгоград,21,315934,196971,160.4,complete plan
+branch00055,Самара,98,61215,51212,119.53,complete plan
+branch00055,Самара,98,463782,51212,905.61,complete plan
+branch00057,Омск,98,445888,94782,470.44,complete plan
+branch00060,Красноярск,31,302970,168174,180.15,complete plan
+branch00061,Казань,68,308883,130758,236.22,complete plan
+branch00062,Краснодар,14,92879,233040,39.86,not complete plan
+branch00062,Краснодар,14,499990,233040,214.55,complete plan
+branch00064,Казань,83,380029,57903,656.32,complete plan
+branch00064,Казань,83,360112,57903,621.92,complete plan
+branch00064,Казань,83,444516,57903,767.69,complete plan
+branch00065,Нижний Новгород,90,312696,8569,3649.15,complete plan
+branch00066,Пермь,79,293725,119894,244.99,complete plan
+branch00067,Новосибирск,52,298356,257984,115.65,complete plan
+branch00069,Волгоград,70,133729,77572,172.39,complete plan
+branch00069,Волгоград,70,62898,77572,81.08,not complete plan
+branch00071,Москва,90,439373,280338,156.73,complete plan
+branch00075,Уфа,17,371031,188131,197.22,complete plan
+branch00076,Ростов-на-Дону,58,247000,71225,346.79,complete plan
+branch00076,Ростов-на-Дону,58,212558,71225,298.43,complete plan
+branch00077,Нижний Новгород,61,361893,229414,157.75,complete plan
+branch00077,Нижний Новгород,61,438865,229414,191.3,complete plan
+branch00079,Омск,67,166907,258452,64.58,not complete plan
+branch00080,Нижний Новгород,67,490900,45134,1087.65,complete plan
+branch00081,Екатеринбург,83,235762,128034,184.14,complete plan
+branch00081,Екатеринбург,83,191594,128034,149.64,complete plan
+branch00081,Екатеринбург,83,205586,128034,160.57,complete plan
+branch00081,Екатеринбург,83,272559,128034,212.88,complete plan
+branch00084,Челябинск,22,285516,61701,462.74,complete plan
+branch00085,Красноярск,100,272069,62107,438.06,complete plan
+branch00085,Красноярск,100,150494,62107,242.31,complete plan
+branch00085,Красноярск,100,306431,62107,493.39,complete plan
+branch00088,Ижевск,44,414838,164895,251.58,complete plan
+branch00089,Краснодар,5,44470,79895,55.66,not complete plan
+branch00089,Краснодар,5,220152,79895,275.55,complete plan
+branch00090,Екатеринбург,49,434942,208656,208.45,complete plan
+branch00090,Екатеринбург,49,108247,208656,51.88,not complete plan
+branch00090,Екатеринбург,49,240199,208656,115.12,complete plan
+branch00092,Санкт-Петербург,33,351992,82896,424.62,complete plan
+branch00092,Санкт-Петербург,33,195553,82896,235.9,complete plan
+branch00094,Новосибирск,96,481276,286139,168.2,complete plan
+branch00095,Краснодар,11,290827,12443,2337.27,complete plan
+branch00096,Тюмень,19,273493,94044,290.81,complete plan
+branch00098,Краснодар,73,81087,192123,42.21,not complete plan
+branch00100,Саратов,80,36531,87363,41.82,not complete plan
+branch00103,Челябинск,94,226688,121898,185.97,complete plan
+branch00105,Красноярск,59,79471,60672,130.98,complete plan
+branch00105,Красноярск,59,429169,60672,707.36,complete plan
+branch00105,Красноярск,59,395870,60672,652.48,complete plan
+branch00106,Саратов,60,51979,81407,63.85,not complete plan
+branch00106,Саратов,60,23768,81407,29.2,not complete plan
+branch00110,Тольятти,73,496777,233123,213.1,complete plan
+branch00110,Тольятти,73,57983,233123,24.87,not complete plan
+branch00112,Самара,3,332792,81311,409.28,complete plan
+branch00112,Самара,3,413153,81311,508.11,complete plan
+branch00113,Новосибирск,93,228387,137911,165.6,complete plan
+branch00113,Новосибирск,93,110025,137911,79.78,not complete plan
+branch00116,Уфа,12,183373,138110,132.77,complete plan
+branch00116,Уфа,12,26891,138110,19.47,not complete plan
+branch00116,Уфа,12,310267,138110,224.65,complete plan
+branch00117,Саратов,33,192412,298139,64.54,not complete plan
+branch00117,Саратов,33,150450,298139,50.46,not complete plan
+branch00118,Омск,88,21841,157380,13.88,not complete plan
+branch00119,Краснодар,30,445849,22063,2020.8,complete plan
+branch00120,Тюмень,19,366670,166151,220.68,complete plan
+branch00120,Тюмень,19,105968,166151,63.78,not complete plan
+branch00121,Тольятти,76,147246,115712,127.25,complete plan
+branch00121,Тольятти,76,344868,115712,298.04,complete plan
+branch00121,Тольятти,76,401579,115712,347.05,complete plan
+branch00122,Краснодар,34,254001,279449,90.89,complete plan
+branch00122,Краснодар,34,103571,279449,37.06,not complete plan
+branch00125,Екатеринбург,87,115371,213390,54.07,not complete plan
+branch00128,Волгоград,96,429085,133483,321.45,complete plan
+branch00128,Волгоград,96,281634,133483,210.99,complete plan
+branch00129,Санкт-Петербург,89,176213,267463,65.88,not complete plan
+branch00132,Уфа,16,60688,134396,45.16,not complete plan
+branch00134,Челябинск,71,408807,45230,903.84,complete plan
+branch00136,Пермь,26,140902,14326,983.54,complete plan
+branch00137,Омск,62,352640,197319,178.72,complete plan
+branch00138,Самара,12,213643,173922,122.84,complete plan
+branch00139,Волгоград,73,457126,77197,592.16,complete plan
+branch00139,Волгоград,73,169728,77197,219.86,complete plan
+branch00140,Екатеринбург,9,167514,210814,79.46,not complete plan
+branch00141,Тюмень,4,384127,228653,168.0,complete plan
+branch00141,Тюмень,4,12716,228653,5.56,not complete plan
+branch00142,Новосибирск,99,281939,199581,141.27,complete plan
+branch00143,Самара,24,342050,294448,116.17,complete plan
+branch00143,Самара,24,421487,294448,143.14,complete plan
+branch00144,Пермь,65,274186,98581,278.13,complete plan
+branch00144,Пермь,65,424448,98581,430.56,complete plan
+branch00144,Пермь,65,108093,98581,109.65,complete plan
+branch00145,Краснодар,30,277819,254947,108.97,complete plan
+branch00146,Воронеж,10,192624,46268,416.32,complete plan
+branch00147,Нижний Новгород,51,454947,16750,2716.1,complete plan
+branch00147,Нижний Новгород,51,356141,16750,2126.21,complete plan
+branch00150,Ростов-на-Дону,57,18503,145460,12.72,not complete plan
+branch00150,Ростов-на-Дону,57,43170,145460,29.68,not complete plan
+branch00150,Ростов-на-Дону,57,382975,145460,263.29,complete plan
+branch00153,Челябинск,40,167227,39703,421.19,complete plan
+branch00154,Челябинск,10,96264,216653,44.43,not complete plan
+branch00156,Тюмень,10,226510,158202,143.18,complete plan
+branch00157,Уфа,10,169448,270693,62.6,not complete plan
+branch00157,Уфа,10,112860,270693,41.69,not complete plan
+branch00158,Санкт-Петербург,77,366024,225806,162.1,complete plan
+branch00158,Санкт-Петербург,77,99758,225806,44.18,not complete plan
+branch00158,Санкт-Петербург,77,209229,225806,92.66,complete plan
+branch00158,Санкт-Петербург,77,384989,225806,170.5,complete plan
+branch00164,Новосибирск,89,271234,88048,308.05,complete plan
+branch00167,Самара,77,216021,170480,126.71,complete plan
+branch00167,Самара,77,393317,170480,230.71,complete plan
+branch00167,Самара,77,305676,170480,179.3,complete plan
+branch00169,Ижевск,13,94917,276070,34.38,not complete plan
+branch00169,Ижевск,13,497547,276070,180.22,complete plan
+branch00170,Пермь,87,333040,114534,290.78,complete plan
+branch00171,Тольятти,75,371635,89462,415.41,complete plan
+branch00171,Тольятти,75,349214,89462,390.35,complete plan
+branch00172,Саратов,43,237895,289222,82.25,not complete plan
+branch00173,Омск,29,394183,179311,219.83,complete plan
+branch00173,Омск,29,419332,179311,233.86,complete plan
+branch00174,Уфа,33,83378,212855,39.17,not complete plan
+branch00174,Уфа,33,82792,212855,38.9,not complete plan
+branch00177,Ростов-на-Дону,61,481166,237368,202.71,complete plan
+branch00177,Ростов-на-Дону,61,436633,237368,183.95,complete plan
+branch00180,Волгоград,82,229092,136177,168.23,complete plan
+branch00180,Волгоград,82,330316,136177,242.56,complete plan
+branch00181,Тольятти,15,499644,53200,939.18,complete plan
+branch00184,Омск,19,66107,245697,26.91,not complete plan
+branch00184,Омск,19,496941,245697,202.26,complete plan
+branch00185,Красноярск,11,295985,36850,803.22,complete plan
+branch00187,Ростов-на-Дону,23,412538,100089,412.17,complete plan
+branch00189,Ростов-на-Дону,81,107720,14640,735.79,complete plan
+branch00190,Саратов,4,83721,79938,104.73,complete plan
+branch00191,Тюмень,41,271642,13950,1947.25,complete plan
+branch00191,Тюмень,41,402693,13950,2886.69,complete plan
+branch00191,Тюмень,41,17384,13950,124.62,complete plan
+branch00192,Екатеринбург,20,201780,93895,214.9,complete plan
+branch00193,Омск,17,431868,268263,160.99,complete plan
+branch00195,Тюмень,22,410095,282205,145.32,complete plan
+branch00196,Омск,39,160004,279173,57.31,not complete plan
+branch00196,Омск,39,37020,279173,13.26,not complete plan
+branch00198,Уфа,29,434051,95536,454.33,complete plan
+branch00200,Краснодар,35,200066,74548,268.37,complete plan
+branch00200,Краснодар,35,437407,74548,586.75,complete plan
+branch00203,Санкт-Петербург,3,245706,23391,1050.43,complete plan
+branch00204,Уфа,19,325864,183642,177.45,complete plan
+branch00205,Омск,23,74297,233089,31.87,not complete plan
+branch00205,Омск,23,406315,233089,174.32,complete plan
+branch00205,Омск,23,320497,233089,137.5,complete plan
+branch00206,Волгоград,73,261139,150596,173.4,complete plan
+branch00207,Пермь,74,32967,282650,11.66,not complete plan
+branch00209,Новосибирск,91,188358,145861,129.14,complete plan
+branch00209,Новосибирск,91,183152,145861,125.57,complete plan
+branch00211,Санкт-Петербург,50,385871,268124,143.92,complete plan
+branch00211,Санкт-Петербург,50,155932,268124,58.16,not complete plan
+branch00212,Тольятти,73,283214,246654,114.82,complete plan
+branch00212,Тольятти,73,436523,246654,176.98,complete plan
+branch00212,Тольятти,73,432282,246654,175.26,complete plan
+branch00213,Казань,58,304066,275796,110.25,complete plan
+branch00215,Ростов-на-Дону,49,239876,37066,647.16,complete plan
+branch00216,Санкт-Петербург,48,412107,269939,152.67,complete plan
+branch00220,Тюмень,55,330799,141754,233.36,complete plan
+branch00220,Тюмень,55,115941,141754,81.79,not complete plan
+branch00221,Ижевск,98,315840,61951,509.82,complete plan
+branch00224,Пермь,6,409433,274770,149.01,complete plan
+branch00224,Пермь,6,232903,274770,84.76,not complete plan
+branch00227,Самара,37,124886,14442,864.74,complete plan
+branch00227,Самара,37,398629,14442,2760.21,complete plan
+branch00231,Самара,28,191415,198828,96.27,complete plan
+branch00232,Волгоград,47,344466,208791,164.98,complete plan
+branch00232,Волгоград,47,167273,208791,80.12,not complete plan
+branch00234,Самара,6,388221,101827,381.26,complete plan
+branch00236,Уфа,38,120843,297860,40.57,not complete plan
+branch00237,Новосибирск,38,45634,227870,20.03,not complete plan
+branch00238,Красноярск,85,428253,125710,340.67,complete plan
+branch00239,Саратов,54,37520,176716,21.23,not complete plan
+branch00243,Тольятти,36,424383,150217,282.51,complete plan
+branch00243,Тольятти,36,120036,150217,79.91,not complete plan
+branch00245,Ижевск,58,170107,203458,83.61,not complete plan
+branch00246,Красноярск,96,137117,70600,194.22,complete plan
+branch00246,Красноярск,96,299448,70600,424.15,complete plan
+branch00247,Уфа,58,118046,271214,43.53,not complete plan
+branch00247,Уфа,58,110627,271214,40.79,not complete plan
+branch00247,Уфа,58,307111,271214,113.24,complete plan
+branch00249,Екатеринбург,52,26552,102028,26.02,not complete plan
+branch00249,Екатеринбург,52,143691,102028,140.83,complete plan
+branch00249,Екатеринбург,52,309871,102028,303.71,complete plan
+branch00250,Тольятти,27,375552,125013,300.41,complete plan
+branch00251,Омск,8,398256,278414,143.04,complete plan
+branch00254,Челябинск,49,83860,44137,190.0,complete plan
+branch00254,Челябинск,49,366695,44137,830.81,complete plan
+branch00254,Челябинск,49,251500,44137,569.82,complete plan
+branch00254,Челябинск,49,409231,44137,927.18,complete plan
+branch00255,Пермь,11,354772,251843,140.87,complete plan
+branch00256,Уфа,82,69479,156010,44.53,not complete plan
+branch00257,Уфа,87,112918,170895,66.07,not complete plan
+branch00259,Ростов-на-Дону,67,437407,53290,820.81,complete plan
+branch00259,Ростов-на-Дону,67,355329,53290,666.78,complete plan
+branch00260,Ростов-на-Дону,88,29199,297979,9.8,not complete plan
+branch00264,Казань,27,386752,113209,341.63,complete plan
+branch00265,Пермь,88,126392,160879,78.56,not complete plan
+branch00268,Тольятти,41,300094,251231,119.45,complete plan
+branch00269,Воронеж,73,361640,201081,179.85,complete plan
+branch00270,Москва,41,192754,266663,72.28,not complete plan
+branch00271,Ростов-на-Дону,29,329855,110457,298.63,complete plan
+branch00272,Пермь,77,351379,294554,119.29,complete plan
+branch00274,Уфа,62,245717,86940,282.63,complete plan
+branch00274,Уфа,62,182818,86940,210.28,complete plan
+branch00275,Волгоград,59,207744,11343,1831.47,complete plan
+branch00275,Волгоград,59,268538,11343,2367.43,complete plan
+branch00276,Челябинск,68,167879,222977,75.29,not complete plan
+branch00278,Нижний Новгород,87,499173,130157,383.52,complete plan
+branch00278,Нижний Новгород,87,34411,130157,26.44,not complete plan
+branch00279,Новосибирск,39,81970,291925,28.08,not complete plan
+branch00282,Новосибирск,99,345266,183645,188.01,complete plan
+branch00282,Новосибирск,99,75625,183645,41.18,not complete plan
+branch00282,Новосибирск,99,41959,183645,22.85,not complete plan
+branch00282,Новосибирск,99,290881,183645,158.39,complete plan
+branch00282,Новосибирск,99,127882,183645,69.64,not complete plan
+branch00283,Самара,89,108818,8766,1241.36,complete plan
+branch00283,Самара,89,230778,8766,2632.65,complete plan
+branch00284,Ростов-на-Дону,31,464582,205276,226.32,complete plan
+branch00286,Москва,8,302598,62499,484.16,complete plan
+branch00287,Самара,63,442700,115580,383.02,complete plan
+branch00288,Ижевск,12,481498,285775,168.49,complete plan
+branch00288,Ижевск,12,438078,285775,153.29,complete plan
+branch00288,Ижевск,12,322925,285775,113.0,complete plan
+branch00290,Тольятти,27,209576,228104,91.88,complete plan
+branch00293,Казань,86,373845,82644,452.36,complete plan
+branch00294,Москва,99,18987,154709,12.27,not complete plan
+branch00295,Екатеринбург,57,73897,56772,130.16,complete plan
+branch00295,Екатеринбург,57,384415,56772,677.12,complete plan
+branch00297,Саратов,62,132768,129358,102.64,complete plan
+branch00298,Санкт-Петербург,74,211405,280503,75.37,not complete plan
+branch00298,Санкт-Петербург,74,32054,280503,11.43,not complete plan
+branch00299,Самара,18,395285,224560,176.03,complete plan
+branch00300,Волгоград,20,27141,203293,13.35,not complete plan
+branch00300,Волгоград,20,161693,203293,79.54,not complete plan
+branch00301,Волгоград,88,178407,248364,71.83,not complete plan
+branch00303,Ижевск,43,170692,58109,293.74,complete plan
+branch00303,Ижевск,43,228090,58109,392.52,complete plan
+branch00305,Саратов,57,247787,77999,317.68,complete plan
+branch00305,Саратов,57,468652,77999,600.84,complete plan
+branch00306,Тюмень,60,127895,214753,59.55,not complete plan
+branch00306,Тюмень,60,252747,214753,117.69,complete plan
+branch00307,Нижний Новгород,98,263876,47232,558.68,complete plan
+branch00308,Краснодар,60,459598,40654,1130.51,complete plan
+branch00308,Краснодар,60,33426,40654,82.22,not complete plan
+branch00310,Самара,84,315377,76528,412.11,complete plan
+branch00310,Самара,84,469411,76528,613.38,complete plan
+branch00311,Омск,69,136888,132136,103.6,complete plan
+branch00315,Ростов-на-Дону,33,93737,214020,43.8,not complete plan
+branch00316,Омск,45,270765,179049,151.22,complete plan
+branch00316,Омск,45,147133,179049,82.17,not complete plan
+branch00317,Уфа,72,218750,174753,125.18,complete plan
+branch00318,Новосибирск,20,280209,245375,114.2,complete plan
+branch00319,Казань,32,371910,150583,246.98,complete plan
+branch00320,Воронеж,91,189865,130479,145.51,complete plan
+branch00321,Казань,93,461666,47157,979.0,complete plan
+branch00321,Казань,93,322984,47157,684.91,complete plan
+branch00321,Казань,93,71793,47157,152.24,complete plan
+branch00322,Челябинск,11,229561,114279,200.88,complete plan
+branch00322,Челябинск,11,103133,114279,90.25,complete plan
+branch00323,Пермь,55,451442,79361,568.85,complete plan
+branch00324,Уфа,72,499355,65133,766.67,complete plan
+branch00325,Волгоград,56,199110,89479,222.52,complete plan
+branch00327,Пермь,52,136740,94179,145.19,complete plan
+branch00327,Пермь,52,312763,94179,332.09,complete plan
+branch00327,Пермь,52,375066,94179,398.25,complete plan
+branch00327,Пермь,52,45218,94179,48.01,not complete plan
+branch00328,Тольятти,92,360140,243702,147.78,complete plan
+branch00329,Москва,100,159639,252347,63.26,not complete plan
+branch00329,Москва,100,134205,252347,53.18,not complete plan
+branch00329,Москва,100,326256,252347,129.29,complete plan
+branch00330,Тольятти,51,416592,172643,241.3,complete plan
+branch00330,Тольятти,51,444363,172643,257.39,complete plan
+branch00331,Краснодар,3,381894,221129,172.7,complete plan
+branch00332,Красноярск,41,379126,71300,531.73,complete plan
+branch00333,Воронеж,56,357197,288978,123.61,complete plan
+branch00334,Тюмень,98,207161,195845,105.78,complete plan
+branch00334,Тюмень,98,113323,195845,57.86,not complete plan
+branch00335,Тюмень,80,25532,116861,21.85,not complete plan
+branch00336,Самара,65,356512,244934,145.55,complete plan
+branch00336,Самара,65,498305,244934,203.44,complete plan
+branch00336,Самара,65,457996,244934,186.99,complete plan
+branch00338,Пермь,65,130596,250927,52.05,not complete plan
+branch00338,Пермь,65,240803,250927,95.97,complete plan
+branch00339,Москва,52,386102,146940,262.76,complete plan
+branch00339,Москва,52,303522,146940,206.56,complete plan
+branch00340,Уфа,88,153244,70869,216.24,complete plan
+branch00340,Уфа,88,363268,70869,512.59,complete plan
+branch00340,Уфа,88,306671,70869,432.73,complete plan
+branch00340,Уфа,88,211245,70869,298.08,complete plan
+branch00340,Уфа,88,427454,70869,603.16,complete plan
+branch00341,Воронеж,95,168957,55406,304.94,complete plan
+branch00341,Воронеж,95,451247,55406,814.44,complete plan
+branch00342,Нижний Новгород,62,431509,90635,476.1,complete plan
+branch00343,Казань,82,235766,167496,140.76,complete plan
+branch00344,Тюмень,6,159192,29144,546.23,complete plan
+branch00346,Тольятти,87,144913,179858,80.57,not complete plan
+branch00348,Пермь,20,107946,55821,193.38,complete plan
+branch00349,Волгоград,26,327282,138138,236.92,complete plan
+branch00353,Уфа,46,77284,33664,229.57,complete plan
+branch00353,Уфа,46,377203,33664,1120.49,complete plan
+branch00354,Воронеж,38,219042,164678,133.01,complete plan
+branch00354,Воронеж,38,22877,164678,13.89,not complete plan
+branch00355,Пермь,35,91328,144402,63.25,not complete plan
+branch00356,Новосибирск,63,382003,99156,385.25,complete plan
+branch00360,Новосибирск,86,461437,299479,154.08,complete plan
+branch00360,Новосибирск,86,289068,299479,96.52,complete plan
+branch00361,Санкт-Петербург,99,453294,296421,152.92,complete plan
+branch00362,Москва,34,35510,138994,25.55,not complete plan
+branch00363,Челябинск,5,150155,57663,260.4,complete plan
+branch00365,Самара,19,299951,61428,488.3,complete plan
+branch00366,Краснодар,88,462008,81291,568.34,complete plan
+branch00368,Челябинск,62,15024,14268,105.3,complete plan
+branch00369,Омск,50,278863,40332,691.42,complete plan
+branch00370,Нижний Новгород,80,300466,124543,241.25,complete plan
+branch00370,Нижний Новгород,80,141963,124543,113.99,complete plan
+branch00373,Ростов-на-Дону,16,279004,218020,127.97,complete plan
+branch00374,Тольятти,6,69710,203160,34.31,not complete plan
+branch00375,Ростов-на-Дону,76,33720,52060,64.77,not complete plan
+branch00376,Воронеж,53,199871,143696,139.09,complete plan
+branch00377,Челябинск,12,239088,47314,505.32,complete plan
+branch00377,Челябинск,12,332240,47314,702.2,complete plan
+branch00380,Ростов-на-Дону,90,279997,111678,250.72,complete plan
+branch00380,Ростов-на-Дону,90,174061,111678,155.86,complete plan
+branch00381,Ижевск,18,242752,240485,100.94,complete plan
+branch00383,Красноярск,71,41693,56223,74.16,not complete plan
+branch00383,Красноярск,71,373560,56223,664.43,complete plan
+branch00384,Пермь,87,477315,181827,262.51,complete plan
+branch00385,Красноярск,11,52074,72239,72.09,not complete plan
+branch00386,Саратов,85,174496,30385,574.28,complete plan
+branch00386,Саратов,85,106405,30385,350.19,complete plan
+branch00387,Уфа,4,299774,249694,120.06,complete plan
+branch00387,Уфа,4,48779,249694,19.54,not complete plan
+branch00389,Екатеринбург,58,308733,96074,321.35,complete plan
+branch00390,Красноярск,84,87477,235098,37.21,not complete plan
+branch00392,Казань,58,245162,268113,91.44,complete plan
+branch00393,Нижний Новгород,96,307399,23457,1310.48,complete plan
+branch00393,Нижний Новгород,96,133480,23457,569.04,complete plan
+branch00394,Саратов,86,304430,208660,145.9,complete plan
+branch00398,Тольятти,37,330501,120573,274.11,complete plan
+branch00398,Тольятти,37,229277,120573,190.16,complete plan
+branch00399,Уфа,34,364961,106121,343.91,complete plan
+branch00399,Уфа,34,12333,106121,11.62,not complete plan
+branch00401,Волгоград,34,252778,154724,163.37,complete plan
+branch00402,Волгоград,75,317759,241838,131.39,complete plan
+branch00404,Воронеж,46,205663,26166,785.99,complete plan
+branch00406,Уфа,26,143408,162720,88.13,not complete plan
+branch00407,Краснодар,30,489789,269562,181.7,complete plan
+branch00407,Краснодар,30,415565,269562,154.16,complete plan
+branch00408,Красноярск,36,437507,224002,195.31,complete plan
+branch00408,Красноярск,36,174828,224002,78.05,not complete plan
+branch00408,Красноярск,36,496997,224002,221.87,complete plan
+branch00410,Ижевск,92,404622,259150,156.13,complete plan
+branch00411,Омск,74,36821,39970,92.12,complete plan
+branch00411,Омск,74,290162,39970,725.95,complete plan
+branch00415,Пермь,65,340175,79951,425.48,complete plan
+branch00416,Тюмень,100,369700,227799,162.29,complete plan
+branch00416,Тюмень,100,208843,227799,91.68,complete plan
+branch00417,Самара,91,352303,112573,312.96,complete plan
+branch00419,Краснодар,60,104362,138625,75.28,not complete plan
+branch00420,Москва,14,441666,293032,150.72,complete plan
+branch00421,Ростов-на-Дону,31,413263,18239,2265.82,complete plan
+branch00421,Ростов-на-Дону,31,273097,18239,1497.32,complete plan
+branch00423,Самара,42,82085,196278,41.82,not complete plan
+branch00424,Тольятти,50,167549,259492,64.57,not complete plan
+branch00424,Тольятти,50,33968,259492,13.09,not complete plan
+branch00424,Тольятти,50,213318,259492,82.21,not complete plan
+branch00426,Саратов,47,378019,262111,144.22,complete plan
+branch00426,Саратов,47,382319,262111,145.86,complete plan
+branch00427,Пермь,98,224045,188372,118.94,complete plan
+branch00428,Тюмень,45,164765,271398,60.71,not complete plan
+branch00429,Красноярск,92,140165,176613,79.36,not complete plan
+branch00430,Волгоград,37,332396,211623,157.07,complete plan
+branch00434,Екатеринбург,98,423703,175183,241.86,complete plan
+branch00434,Екатеринбург,98,107388,175183,61.3,not complete plan
+branch00437,Челябинск,97,252249,155289,162.44,complete plan
+branch00438,Краснодар,38,301425,38718,778.51,complete plan
+branch00441,Ростов-на-Дону,15,432664,195397,221.43,complete plan
+branch00441,Ростов-на-Дону,15,65545,195397,33.54,not complete plan
+branch00442,Челябинск,40,80220,130034,61.69,not complete plan
+branch00442,Челябинск,40,245323,130034,188.66,complete plan
+branch00443,Самара,49,107380,91689,117.11,complete plan
+branch00443,Самара,49,217399,91689,237.1,complete plan
+branch00444,Нижний Новгород,41,273645,60499,452.31,complete plan
+branch00448,Санкт-Петербург,73,131710,287807,45.76,not complete plan
+branch00449,Ростов-на-Дону,92,388532,37312,1041.31,complete plan
+branch00450,Казань,84,132861,123034,107.99,complete plan
+branch00451,Краснодар,16,227905,211645,107.68,complete plan
+branch00452,Москва,76,296446,194019,152.79,complete plan
+branch00455,Уфа,26,194311,132020,147.18,complete plan
+branch00456,Санкт-Петербург,35,198700,174725,113.72,complete plan
+branch00457,Краснодар,17,325947,196105,166.21,complete plan
+branch00457,Краснодар,17,206146,196105,105.12,complete plan
+branch00458,Новосибирск,54,32206,22788,141.33,complete plan
+branch00458,Новосибирск,54,405185,22788,1778.06,complete plan
+branch00458,Новосибирск,54,286914,22788,1259.06,complete plan
+branch00458,Новосибирск,54,323411,22788,1419.22,complete plan
+branch00460,Тольятти,83,323489,82502,392.1,complete plan
+branch00461,Санкт-Петербург,22,204492,106688,191.67,complete plan
+branch00461,Санкт-Петербург,22,254230,106688,238.29,complete plan
+branch00462,Казань,75,334749,266068,125.81,complete plan
+branch00465,Тюмень,100,79176,100042,79.14,not complete plan
+branch00466,Пермь,80,346232,265129,130.59,complete plan
+branch00466,Пермь,80,402028,265129,151.63,complete plan
+branch00467,Ижевск,82,421183,27903,1509.45,complete plan
+branch00468,Самара,69,88087,55320,159.23,complete plan
+branch00468,Самара,69,305651,55320,552.51,complete plan
+branch00469,Воронеж,60,66084,37448,176.47,complete plan
+branch00469,Воронеж,60,69745,37448,186.24,complete plan
+branch00469,Воронеж,60,333675,37448,891.04,complete plan
+branch00469,Воронеж,60,306563,37448,818.64,complete plan
+branch00470,Волгоград,41,349888,129961,269.23,complete plan
+branch00471,Тольятти,57,488215,122718,397.83,complete plan
+branch00471,Тольятти,57,306223,122718,249.53,complete plan
+branch00473,Ижевск,10,381388,284010,134.29,complete plan
+branch00474,Ижевск,97,362724,258603,140.26,complete plan
+branch00478,Новосибирск,23,74236,76414,97.15,complete plan
+branch00478,Новосибирск,23,289786,76414,379.23,complete plan
+branch00478,Новосибирск,23,61699,76414,80.74,not complete plan
+branch00479,Самара,25,431350,186655,231.09,complete plan
+branch00480,Тюмень,12,153045,101040,151.47,complete plan
+branch00481,Нижний Новгород,3,409312,177653,230.4,complete plan
+branch00482,Пермь,60,159814,39224,407.44,complete plan
+branch00483,Ижевск,63,407069,19488,2088.82,complete plan
+branch00484,Ростов-на-Дону,7,62714,85443,73.4,not complete plan
+branch00485,Самара,39,136336,82266,165.73,complete plan
+branch00486,Ростов-на-Дону,92,282279,66154,426.7,complete plan
+branch00486,Ростов-на-Дону,92,149214,66154,225.56,complete plan
+branch00487,Волгоград,12,437687,283930,154.15,complete plan
+branch00488,Самара,36,39420,199307,19.78,not complete plan
+branch00488,Самара,36,61182,199307,30.7,not complete plan
+branch00489,Тольятти,87,351069,46027,762.75,complete plan
+branch00489,Тольятти,87,179660,46027,390.34,complete plan
+branch00490,Челябинск,57,285501,203869,140.04,complete plan
+branch00490,Челябинск,57,90313,203869,44.3,not complete plan
+branch00491,Екатеринбург,72,285615,215406,132.59,complete plan
+branch00491,Екатеринбург,72,119518,215406,55.48,not complete plan
+branch00491,Екатеринбург,72,315263,215406,146.36,complete plan
+branch00492,Самара,85,99397,60969,163.03,complete plan
+branch00492,Самара,85,192873,60969,316.35,complete plan
+branch00495,Санкт-Петербург,24,138386,177136,78.12,not complete plan
+branch00495,Санкт-Петербург,24,355654,177136,200.78,complete plan
+branch00495,Санкт-Петербург,24,64813,177136,36.59,not complete plan
+branch00495,Санкт-Петербург,24,192609,177136,108.74,complete plan
+branch00496,Ростов-на-Дону,79,253501,79539,318.71,complete plan
+branch00496,Ростов-на-Дону,79,110801,79539,139.3,complete plan
+branch00497,Тольятти,39,81583,90577,90.07,complete plan
+branch00499,Волгоград,91,343185,263433,130.27,complete plan
+branch00500,Ростов-на-Дону,92,18247,174347,10.47,not complete plan
+branch00501,Воронеж,37,176220,99332,177.41,complete plan
+branch00501,Воронеж,37,389352,99332,391.97,complete plan
+branch00501,Воронеж,37,106494,99332,107.21,complete plan
+branch00501,Воронеж,37,97688,99332,98.34,complete plan
+branch00502,Саратов,72,381583,195079,195.6,complete plan
+branch00502,Саратов,72,161432,195079,82.75,not complete plan
+branch00503,Краснодар,59,251607,125040,201.22,complete plan
+branch00503,Краснодар,59,129610,125040,103.65,complete plan
+branch00503,Краснодар,59,311926,125040,249.46,complete plan
+branch00506,Уфа,80,23780,168863,14.08,not complete plan
+branch00506,Уфа,80,476228,168863,282.02,complete plan
+branch00507,Омск,6,323271,162411,199.05,complete plan
+branch00507,Омск,6,224504,162411,138.23,complete plan
+branch00508,Новосибирск,32,34580,74767,46.25,not complete plan
+branch00508,Новосибирск,32,321325,74767,429.77,complete plan
+branch00509,Тольятти,78,372843,101170,368.53,complete plan
+branch00510,Москва,100,202595,8942,2265.66,complete plan
+branch00511,Омск,76,470888,213311,220.75,complete plan
+branch00512,Санкт-Петербург,100,298695,24977,1195.88,complete plan
+branch00513,Нижний Новгород,63,31105,103463,30.06,not complete plan
+branch00513,Нижний Новгород,63,89033,103463,86.05,not complete plan
+branch00515,Волгоград,38,493973,123812,398.97,complete plan
+branch00515,Волгоград,38,436328,123812,352.41,complete plan
+branch00517,Пермь,84,246115,268143,91.78,complete plan
+branch00518,Краснодар,14,249720,81737,305.52,complete plan
+branch00518,Краснодар,14,115988,81737,141.9,complete plan
+branch00518,Краснодар,14,249080,81737,304.73,complete plan
+branch00518,Краснодар,14,352396,81737,431.13,complete plan
+branch00519,Краснодар,47,494177,181627,272.08,complete plan
+branch00520,Пермь,45,444262,48793,910.5,complete plan
+branch00521,Уфа,88,127567,132778,96.08,complete plan
+branch00522,Екатеринбург,23,220442,189828,116.13,complete plan
+branch00522,Екатеринбург,23,289099,189828,152.3,complete plan
+branch00523,Уфа,55,243561,175519,138.77,complete plan
+branch00523,Уфа,55,401566,175519,228.79,complete plan
+branch00525,Воронеж,100,223932,54517,410.76,complete plan
+branch00526,Тюмень,7,227802,184029,123.79,complete plan
+branch00527,Волгоград,14,481940,242162,199.02,complete plan
+branch00528,Уфа,35,254745,13974,1822.99,complete plan
+branch00528,Уфа,35,83285,13974,596.0,complete plan
+branch00528,Уфа,35,181928,13974,1301.9,complete plan
+branch00529,Уфа,17,101463,147047,69.0,not complete plan
+branch00531,Москва,87,212892,138831,153.35,complete plan
+branch00532,Тюмень,62,149838,43543,344.12,complete plan
+branch00532,Тюмень,62,302549,43543,694.83,complete plan
+branch00533,Пермь,9,241651,191753,126.02,complete plan
+branch00534,Челябинск,69,125890,142562,88.31,not complete plan
+branch00534,Челябинск,69,98910,142562,69.38,not complete plan
+branch00537,Волгоград,100,339790,33243,1022.14,complete plan
+branch00537,Волгоград,100,27733,33243,83.43,not complete plan
+branch00537,Волгоград,100,88065,33243,264.91,complete plan
+branch00541,Волгоград,92,345076,95209,362.44,complete plan
+branch00542,Краснодар,18,76766,225065,34.11,not complete plan
+branch00543,Москва,83,202387,266516,75.94,not complete plan
+branch00543,Москва,83,388636,266516,145.82,complete plan
+branch00545,Нижний Новгород,42,208850,192146,108.69,complete plan
+branch00546,Тюмень,4,189477,294273,64.39,not complete plan
+branch00548,Новосибирск,31,397284,61177,649.4,complete plan
+branch00550,Екатеринбург,85,14287,126270,11.31,not complete plan
+branch00551,Казань,66,430476,93278,461.5,complete plan
+branch00551,Казань,66,216075,93278,231.65,complete plan
+branch00551,Казань,66,373558,93278,400.48,complete plan
+branch00551,Казань,66,161346,93278,172.97,complete plan
+branch00552,Ростов-на-Дону,68,98278,244604,40.18,not complete plan
+branch00553,Омск,56,123911,46644,265.65,complete plan
+branch00556,Тюмень,21,162233,18526,875.7,complete plan
+branch00556,Тюмень,21,346492,18526,1870.3,complete plan
+branch00556,Тюмень,21,441285,18526,2381.98,complete plan
+branch00557,Воронеж,27,258197,175099,147.46,complete plan
+branch00557,Воронеж,27,209069,175099,119.4,complete plan
+branch00557,Воронеж,27,284893,175099,162.7,complete plan
+branch00557,Воронеж,27,305441,175099,174.44,complete plan
+branch00557,Воронеж,27,29275,175099,16.72,not complete plan
+branch00558,Ижевск,68,232365,144906,160.36,complete plan
+branch00559,Казань,11,161871,62906,257.32,complete plan
+branch00559,Казань,11,104333,62906,165.86,complete plan
+branch00560,Омск,56,195748,46902,417.36,complete plan
+branch00561,Уфа,67,483373,187205,258.21,complete plan
+branch00563,Ростов-на-Дону,95,488568,204848,238.5,complete plan
+branch00563,Ростов-на-Дону,95,277809,204848,135.62,complete plan
+branch00564,Ростов-на-Дону,78,24111,92360,26.11,not complete plan
+branch00565,Тольятти,87,78037,47322,164.91,complete plan
+branch00565,Тольятти,87,225659,47322,476.86,complete plan
+branch00566,Краснодар,22,93957,294809,31.87,not complete plan
+branch00567,Волгоград,71,161310,56813,283.93,complete plan
+branch00568,Краснодар,47,58792,185183,31.75,not complete plan
+branch00569,Уфа,73,97485,261093,37.34,not complete plan
+branch00571,Волгоград,44,320203,234137,136.76,complete plan
+branch00571,Волгоград,44,287868,234137,122.95,complete plan
+branch00571,Волгоград,44,300843,234137,128.49,complete plan
+branch00572,Челябинск,92,201683,94506,213.41,complete plan
+branch00573,Самара,76,123779,235646,52.53,not complete plan
+branch00573,Самара,76,484589,235646,205.64,complete plan
+branch00574,Воронеж,32,499527,90367,552.78,complete plan
+branch00576,Уфа,98,65670,61088,107.5,complete plan
+branch00576,Уфа,98,374994,61088,613.86,complete plan
+branch00576,Уфа,98,226361,61088,370.55,complete plan
+branch00577,Краснодар,93,167176,181588,92.06,complete plan
+branch00577,Краснодар,93,463029,181588,254.99,complete plan
+branch00577,Краснодар,93,348182,181588,191.74,complete plan
+branch00578,Воронеж,52,31597,115767,27.29,not complete plan
+branch00578,Воронеж,52,68829,115767,59.45,not complete plan
+branch00581,Саратов,78,259299,298514,86.86,not complete plan
+branch00582,Уфа,15,326031,291181,111.97,complete plan
+branch00582,Уфа,15,363580,291181,124.86,complete plan
+branch00584,Саратов,61,304553,155599,195.73,complete plan
+branch00586,Казань,55,228411,132543,172.33,complete plan
+branch00587,Казань,12,203415,58287,348.99,complete plan
+branch00587,Казань,12,377274,58287,647.27,complete plan
+branch00587,Казань,12,291364,58287,499.88,complete plan
+branch00587,Казань,12,150164,58287,257.63,complete plan
+branch00588,Краснодар,36,82191,34023,241.57,complete plan
+branch00588,Краснодар,36,364744,34023,1072.05,complete plan
+branch00588,Краснодар,36,131750,34023,387.24,complete plan
+branch00589,Уфа,82,48666,213993,22.74,not complete plan
+branch00589,Уфа,82,211174,213993,98.68,complete plan
+branch00590,Воронеж,86,125884,296181,42.5,not complete plan
+branch00593,Уфа,83,312846,36576,855.33,complete plan
+branch00593,Уфа,83,48288,36576,132.02,complete plan
+branch00594,Краснодар,72,387493,197178,196.52,complete plan
+branch00595,Санкт-Петербург,82,370534,10000,3705.34,complete plan
+branch00598,Новосибирск,58,171311,162428,105.47,complete plan
+branch00598,Новосибирск,58,266286,162428,163.94,complete plan
+branch00602,Ростов-на-Дону,6,85597,21492,398.27,complete plan
+branch00603,Санкт-Петербург,44,371987,116502,319.3,complete plan
+branch00603,Санкт-Петербург,44,371304,116502,318.71,complete plan
+branch00605,Красноярск,50,54434,160993,33.81,not complete plan
+branch00607,Самара,70,314425,256287,122.68,complete plan
+branch00607,Самара,70,235209,256287,91.78,complete plan
+branch00608,Пермь,75,186356,68559,271.82,complete plan
+branch00609,Нижний Новгород,24,27603,169665,16.27,not complete plan
+branch00609,Нижний Новгород,24,344590,169665,203.1,complete plan
+branch00611,Ижевск,51,82282,254910,32.28,not complete plan
+branch00612,Ижевск,90,323547,264427,122.36,complete plan
+branch00613,Самара,66,415032,146938,282.45,complete plan
+branch00617,Омск,88,441143,104931,420.41,complete plan
+branch00618,Москва,62,30734,202521,15.18,not complete plan
+branch00620,Тюмень,23,187009,201672,92.73,complete plan
+branch00621,Новосибирск,59,478258,105823,451.94,complete plan
+branch00621,Новосибирск,59,205887,105823,194.56,complete plan
+branch00622,Красноярск,78,85323,241714,35.3,not complete plan
+branch00623,Ростов-на-Дону,84,365513,31392,1164.35,complete plan
+branch00626,Ростов-на-Дону,28,72291,251824,28.71,not complete plan
+branch00627,Воронеж,64,473599,146097,324.17,complete plan
+branch00628,Екатеринбург,33,177001,126616,139.79,complete plan
+branch00628,Екатеринбург,33,33224,126616,26.24,not complete plan
+branch00629,Воронеж,76,472997,148803,317.87,complete plan
+branch00630,Красноярск,76,238034,40316,590.42,complete plan
+branch00630,Красноярск,76,289696,40316,718.56,complete plan
+branch00632,Ростов-на-Дону,5,397616,58700,677.37,complete plan
+branch00632,Ростов-на-Дону,5,488544,58700,832.27,complete plan
+branch00632,Ростов-на-Дону,5,112523,58700,191.69,complete plan
+branch00633,Воронеж,38,345015,52935,651.77,complete plan
+branch00633,Воронеж,38,344353,52935,650.52,complete plan
+branch00634,Москва,75,164863,188245,87.58,not complete plan
+branch00635,Санкт-Петербург,80,286014,291875,97.99,complete plan
+branch00636,Краснодар,39,209171,225048,92.95,complete plan
+branch00639,Челябинск,82,366724,39973,917.43,complete plan
+branch00641,Казань,83,168767,281983,59.85,not complete plan
+branch00642,Екатеринбург,83,365860,227483,160.83,complete plan
+branch00648,Пермь,25,234482,49395,474.71,complete plan
+branch00650,Тюмень,49,153302,26207,584.97,complete plan
+branch00650,Тюмень,49,90885,26207,346.8,complete plan
+branch00651,Саратов,67,298799,271245,110.16,complete plan
+branch00653,Омск,64,222971,85305,261.38,complete plan
+branch00653,Омск,64,14954,85305,17.53,not complete plan
+branch00654,Ростов-на-Дону,98,101273,71062,142.51,complete plan
+branch00656,Волгоград,12,318169,98638,322.56,complete plan
+branch00656,Волгоград,12,354618,98638,359.51,complete plan
+branch00657,Казань,99,98413,95642,102.9,complete plan
+branch00658,Самара,89,48883,119091,41.05,not complete plan
+branch00658,Самара,89,168384,119091,141.39,complete plan
+branch00658,Самара,89,397760,119091,334.0,complete plan
+branch00661,Воронеж,4,421239,30374,1386.84,complete plan
+branch00662,Омск,71,41018,229970,17.84,not complete plan
+branch00663,Екатеринбург,61,51455,49087,104.82,complete plan
+branch00664,Красноярск,89,67337,236271,28.5,not complete plan
+branch00665,Омск,77,198355,113863,174.2,complete plan
+branch00666,Воронеж,84,156113,85530,182.52,complete plan
+branch00666,Воронеж,84,408241,85530,477.31,complete plan
+branch00670,Тюмень,44,362594,53627,676.14,complete plan
+branch00670,Тюмень,44,198508,53627,370.16,complete plan
+branch00670,Тюмень,44,459954,53627,857.69,complete plan
+branch00671,Ижевск,31,369056,211475,174.52,complete plan
+branch00672,Новосибирск,84,144450,299695,48.2,not complete plan
+branch00672,Новосибирск,84,76525,299695,25.53,not complete plan
+branch00674,Ростов-на-Дону,86,27250,297435,9.16,not complete plan
+branch00675,Пермь,17,337406,178984,188.51,complete plan
+branch00677,Санкт-Петербург,41,209267,280466,74.61,not complete plan
+branch00681,Воронеж,61,442854,227988,194.24,complete plan
+branch00681,Воронеж,61,196126,227988,86.02,not complete plan
+branch00683,Тюмень,56,499634,225287,221.78,complete plan
+branch00685,Казань,56,35435,85699,41.35,not complete plan
+branch00686,Екатеринбург,65,60009,60535,99.13,complete plan
+branch00688,Омск,7,209834,60948,344.28,complete plan
+branch00689,Красноярск,30,378724,157995,239.71,complete plan
+branch00689,Красноярск,30,439068,157995,277.9,complete plan
+branch00689,Красноярск,30,80227,157995,50.78,not complete plan
+branch00690,Волгоград,59,387012,288826,133.99,complete plan
+branch00690,Волгоград,59,327178,288826,113.28,complete plan
+branch00690,Волгоград,59,271778,288826,94.1,complete plan
+branch00690,Волгоград,59,380141,288826,131.62,complete plan
+branch00693,Красноярск,72,414744,146483,283.13,complete plan
+branch00694,Красноярск,10,349079,208825,167.16,complete plan
+branch00694,Красноярск,10,429456,208825,205.65,complete plan
+branch00696,Челябинск,18,93879,256012,36.67,not complete plan
+branch00696,Челябинск,18,437389,256012,170.85,complete plan
+branch00697,Волгоград,14,281245,27642,1017.46,complete plan
+branch00697,Волгоград,14,317167,27642,1147.41,complete plan
+branch00698,Челябинск,85,347279,98282,353.35,complete plan
+branch00698,Челябинск,85,414103,98282,421.34,complete plan
+branch00699,Ижевск,5,453296,152396,297.45,complete plan
+branch00699,Ижевск,5,412452,152396,270.64,complete plan
+branch00700,Санкт-Петербург,45,356969,219274,162.8,complete plan
+branch00701,Самара,19,444143,83420,532.42,complete plan
+branch00701,Самара,19,495273,83420,593.71,complete plan
+branch00702,Тольятти,29,222909,218616,101.96,complete plan
+branch00702,Тольятти,29,209613,218616,95.88,complete plan
+branch00702,Тольятти,29,267805,218616,122.5,complete plan
+branch00705,Тольятти,30,339913,181798,186.97,complete plan
+branch00706,Самара,45,389670,132559,293.96,complete plan
+branch00707,Казань,79,379616,33842,1121.73,complete plan
+branch00708,Москва,38,116897,257151,45.46,not complete plan
+branch00709,Казань,19,475334,148815,319.41,complete plan
+branch00709,Казань,19,229310,148815,154.09,complete plan
+branch00710,Тюмень,35,133890,203266,65.87,not complete plan
+branch00712,Москва,19,341823,185139,184.63,complete plan
+branch00713,Москва,48,326880,166888,195.87,complete plan
+branch00714,Самара,78,247212,171026,144.55,complete plan
+branch00715,Уфа,5,363387,154982,234.47,complete plan
+branch00719,Екатеринбург,98,479500,78456,611.17,complete plan
+branch00719,Екатеринбург,98,464074,78456,591.51,complete plan
+branch00720,Новосибирск,63,99854,165538,60.32,not complete plan
+branch00721,Волгоград,49,243975,240317,101.52,complete plan
+branch00721,Волгоград,49,413618,240317,172.11,complete plan
+branch00721,Волгоград,49,199679,240317,83.09,not complete plan
+branch00721,Волгоград,49,117223,240317,48.78,not complete plan
+branch00722,Саратов,78,118673,176227,67.34,not complete plan
+branch00722,Саратов,78,122615,176227,69.58,not complete plan
+branch00725,Ижевск,8,85681,54812,156.32,complete plan
+branch00725,Ижевск,8,89183,54812,162.71,complete plan
+branch00728,Москва,10,329952,118829,277.67,complete plan
+branch00729,Краснодар,54,382015,221474,172.49,complete plan
+branch00729,Краснодар,54,420984,221474,190.08,complete plan
+branch00730,Пермь,90,440389,261996,168.09,complete plan
+branch00731,Екатеринбург,65,243366,278795,87.29,not complete plan
+branch00731,Екатеринбург,65,48538,278795,17.41,not complete plan
+branch00735,Новосибирск,19,233407,91347,255.52,complete plan
+branch00735,Новосибирск,19,386894,91347,423.54,complete plan
+branch00736,Омск,82,177413,42402,418.41,complete plan
+branch00738,Уфа,51,482908,273706,176.43,complete plan
+branch00738,Уфа,51,296547,273706,108.35,complete plan
+branch00739,Ижевск,70,173952,219489,79.25,not complete plan
+branch00739,Ижевск,70,334920,219489,152.59,complete plan
+branch00739,Ижевск,70,153370,219489,69.88,not complete plan
+branch00739,Ижевск,70,337697,219489,153.86,complete plan
+branch00741,Саратов,80,455819,282876,161.14,complete plan
+branch00741,Саратов,80,310352,282876,109.71,complete plan
+branch00741,Саратов,80,21413,282876,7.57,not complete plan
+branch00742,Пермь,15,444847,23177,1919.35,complete plan
+branch00742,Пермь,15,362033,23177,1562.04,complete plan
+branch00743,Екатеринбург,86,467231,99088,471.53,complete plan
+branch00743,Екатеринбург,86,411337,99088,415.12,complete plan
+branch00743,Екатеринбург,86,482454,99088,486.89,complete plan
+branch00745,Челябинск,58,232560,113238,205.37,complete plan
+branch00745,Челябинск,58,466150,113238,411.66,complete plan
+branch00745,Челябинск,58,201772,113238,178.18,complete plan
+branch00746,Волгоград,32,126753,38213,331.7,complete plan
+branch00747,Пермь,46,348627,138804,251.16,complete plan
+branch00750,Екатеринбург,43,312047,34507,904.3,complete plan
+branch00752,Омск,50,461295,112390,410.44,complete plan
+branch00754,Краснодар,11,391368,201122,194.59,complete plan
+branch00755,Новосибирск,13,186743,251384,74.29,not complete plan
+branch00758,Красноярск,19,214274,72945,293.75,complete plan
+branch00759,Тюмень,10,317668,24023,1322.35,complete plan
+branch00759,Тюмень,10,137880,24023,573.95,complete plan
+branch00761,Тюмень,45,415037,203279,204.17,complete plan
+branch00762,Екатеринбург,55,240548,264265,91.03,complete plan
+branch00764,Пермь,95,124243,101104,122.89,complete plan
+branch00764,Пермь,95,191329,101104,189.24,complete plan
+branch00766,Ижевск,42,261175,297057,87.92,not complete plan
+branch00770,Краснодар,31,139777,143612,97.33,complete plan
+branch00771,Екатеринбург,47,440278,55391,794.85,complete plan
+branch00771,Екатеринбург,47,378972,55391,684.18,complete plan
+branch00772,Тюмень,50,349162,157458,221.75,complete plan
+branch00773,Екатеринбург,100,322378,22391,1439.77,complete plan
+branch00773,Екатеринбург,100,462843,22391,2067.09,complete plan
+branch00773,Екатеринбург,100,292029,22391,1304.22,complete plan
+branch00773,Екатеринбург,100,261092,22391,1166.06,complete plan
+branch00774,Омск,76,85637,210671,40.65,not complete plan
+branch00774,Омск,76,397839,210671,188.84,complete plan
+branch00775,Самара,57,21919,34031,64.41,not complete plan
+branch00775,Самара,57,31815,34031,93.49,complete plan
+branch00776,Тюмень,82,111272,93410,119.12,complete plan
+branch00779,Ижевск,87,386952,126023,307.05,complete plan
+branch00780,Омск,6,318063,116386,273.28,complete plan
+branch00780,Омск,6,151435,116386,130.11,complete plan
+branch00780,Омск,6,125620,116386,107.93,complete plan
+branch00782,Ростов-на-Дону,46,50310,222699,22.59,not complete plan
+branch00782,Ростов-на-Дону,46,440750,222699,197.91,complete plan
+branch00783,Красноярск,3,221421,277107,79.9,not complete plan
+branch00783,Красноярск,3,298283,277107,107.64,complete plan
+branch00783,Красноярск,3,13346,277107,4.82,not complete plan
+branch00785,Тольятти,87,346343,12665,2734.65,complete plan
+branch00785,Тольятти,87,473342,12665,3737.4,complete plan
+branch00785,Тольятти,87,269686,12665,2129.38,complete plan
+branch00788,Москва,14,81003,98807,81.98,not complete plan
+branch00788,Москва,14,331842,98807,335.85,complete plan
+branch00790,Воронеж,56,312394,125319,249.28,complete plan
+branch00790,Воронеж,56,161521,125319,128.89,complete plan
+branch00791,Волгоград,46,366282,140325,261.02,complete plan
+branch00794,Уфа,75,146466,230196,63.63,not complete plan
+branch00794,Уфа,75,451013,230196,195.93,complete plan
+branch00794,Уфа,75,330590,230196,143.61,complete plan
+branch00794,Уфа,75,294744,230196,128.04,complete plan
+branch00795,Ижевск,13,249955,205381,121.7,complete plan
+branch00795,Ижевск,13,39592,205381,19.28,not complete plan
+branch00795,Ижевск,13,435663,205381,212.12,complete plan
+branch00798,Ижевск,9,348251,140119,248.54,complete plan
+branch00798,Ижевск,9,54406,140119,38.83,not complete plan
+branch00799,Новосибирск,37,299041,122404,244.31,complete plan
+branch00800,Волгоград,87,35063,252684,13.88,not complete plan
+branch00801,Пермь,65,239728,166411,144.06,complete plan
+branch00801,Пермь,65,137100,166411,82.39,not complete plan
+branch00802,Ижевск,59,416932,280964,148.39,complete plan
+branch00802,Ижевск,59,50328,280964,17.91,not complete plan
+branch00803,Пермь,37,246218,216222,113.87,complete plan
+branch00804,Челябинск,99,180094,61641,292.17,complete plan
+branch00805,Саратов,17,284969,11852,2404.4,complete plan
+branch00805,Саратов,17,216011,11852,1822.57,complete plan
+branch00805,Саратов,17,225794,11852,1905.11,complete plan
+branch00807,Екатеринбург,39,269723,204204,132.09,complete plan
+branch00810,Ростов-на-Дону,8,164677,64677,254.61,complete plan
+branch00810,Ростов-на-Дону,8,198496,64677,306.9,complete plan
+branch00811,Самара,53,114579,260569,43.97,not complete plan
+branch00811,Самара,53,40072,260569,15.38,not complete plan
+branch00812,Ижевск,10,82811,41469,199.69,complete plan
+branch00813,Москва,29,199526,184309,108.26,complete plan
+branch00814,Ростов-на-Дону,30,187778,152956,122.77,complete plan
+branch00815,Казань,100,194641,178465,109.06,complete plan
+branch00815,Казань,100,218088,178465,122.2,complete plan
+branch00815,Казань,100,224508,178465,125.8,complete plan
+branch00816,Омск,40,481212,153167,314.17,complete plan
+branch00817,Уфа,18,162741,144916,112.3,complete plan
+branch00818,Москва,66,139210,164652,84.55,not complete plan
+branch00820,Казань,51,165946,86606,191.61,complete plan
+branch00821,Тюмень,93,53312,279210,19.09,not complete plan
+branch00821,Тюмень,93,403162,279210,144.39,complete plan
+branch00823,Тюмень,88,373495,37766,988.97,complete plan
+branch00823,Тюмень,88,388752,37766,1029.37,complete plan
+branch00824,Красноярск,12,86795,219863,39.48,not complete plan
+branch00824,Красноярск,12,462040,219863,210.15,complete plan
+branch00825,Воронеж,97,433283,175554,246.81,complete plan
+branch00826,Санкт-Петербург,58,252758,81363,310.65,complete plan
+branch00827,Москва,61,171569,21345,803.79,complete plan
+branch00829,Тольятти,57,39169,162981,24.03,not complete plan
+branch00829,Тольятти,57,356133,162981,218.51,complete plan
+branch00829,Тольятти,57,427337,162981,262.2,complete plan
+branch00830,Тольятти,54,382652,144014,265.7,complete plan
+branch00831,Пермь,40,396721,227448,174.42,complete plan
+branch00832,Екатеринбург,54,291493,220126,132.42,complete plan
+branch00834,Нижний Новгород,82,181670,26517,685.11,complete plan
+branch00836,Красноярск,14,490455,187918,260.99,complete plan
+branch00836,Красноярск,14,441769,187918,235.09,complete plan
+branch00837,Пермь,16,11580,124582,9.3,not complete plan
+branch00839,Тольятти,54,190949,257422,74.18,not complete plan
+branch00842,Уфа,31,366896,165388,221.84,complete plan
+branch00844,Новосибирск,68,130410,102967,126.65,complete plan
+branch00844,Новосибирск,68,202341,102967,196.51,complete plan
+branch00846,Саратов,27,462870,59172,782.24,complete plan
+branch00847,Красноярск,47,234239,254824,91.92,complete plan
+branch00848,Казань,33,292369,75079,389.42,complete plan
+branch00850,Омск,28,352712,103980,339.21,complete plan
+branch00852,Казань,100,373245,54818,680.88,complete plan
+branch00854,Краснодар,62,138833,194270,71.46,not complete plan
+branch00855,Тольятти,100,11821,125088,9.45,not complete plan
+branch00855,Тольятти,100,455352,125088,364.03,complete plan
+branch00857,Тольятти,85,218139,228448,95.49,complete plan
+branch00859,Уфа,22,49855,202868,24.58,not complete plan
+branch00860,Волгоград,11,177894,144608,123.02,complete plan
+branch00860,Волгоград,11,453913,144608,313.89,complete plan
+branch00861,Краснодар,59,242706,162167,149.66,complete plan
+branch00863,Тольятти,10,494405,69751,708.81,complete plan
+branch00863,Тольятти,10,166884,69751,239.26,complete plan
+branch00863,Тольятти,10,340669,69751,488.41,complete plan
+branch00866,Волгоград,60,237493,45337,523.84,complete plan
+branch00867,Санкт-Петербург,10,51345,255579,20.09,not complete plan
+branch00868,Красноярск,39,66359,109996,60.33,not complete plan
+branch00868,Красноярск,39,204551,109996,185.96,complete plan
+branch00869,Новосибирск,85,52266,270394,19.33,not complete plan
+branch00869,Новосибирск,85,427153,270394,157.97,complete plan
+branch00870,Новосибирск,81,128145,70818,180.95,complete plan
+branch00870,Новосибирск,81,189871,70818,268.11,complete plan
+branch00871,Ижевск,67,174880,208104,84.03,not complete plan
+branch00872,Воронеж,62,92578,285787,32.39,not complete plan
+branch00872,Воронеж,62,274352,285787,96.0,complete plan
+branch00877,Ижевск,63,344876,80018,431.0,complete plan
+branch00879,Санкт-Петербург,60,59997,187657,31.97,not complete plan
+branch00881,Новосибирск,67,192331,247899,77.58,not complete plan
+branch00881,Новосибирск,67,351330,247899,141.72,complete plan
+branch00883,Самара,93,438200,173876,252.02,complete plan
+branch00884,Волгоград,59,266630,102558,259.98,complete plan
+branch00885,Саратов,69,332635,50368,660.41,complete plan
+branch00885,Саратов,69,211975,50368,420.85,complete plan
+branch00887,Красноярск,50,353792,182393,193.97,complete plan
+branch00887,Красноярск,50,71544,182393,39.23,not complete plan
+branch00889,Пермь,46,387972,172319,225.15,complete plan
+branch00891,Уфа,11,490832,10471,4687.54,complete plan
+branch00891,Уфа,11,485546,10471,4637.05,complete plan
+branch00893,Тюмень,89,291484,151407,192.52,complete plan
+branch00894,Воронеж,39,454793,117776,386.15,complete plan
+branch00894,Воронеж,39,35520,117776,30.16,not complete plan
+branch00895,Омск,95,422809,96397,438.61,complete plan
+branch00895,Омск,95,48159,96397,49.96,not complete plan
+branch00896,Ижевск,22,292748,91065,321.47,complete plan
+branch00898,Тольятти,87,29643,54159,54.73,not complete plan
+branch00900,Ростов-на-Дону,86,444662,235389,188.91,complete plan
+branch00900,Ростов-на-Дону,86,259403,235389,110.2,complete plan
+branch00901,Воронеж,19,395462,233134,169.63,complete plan
+branch00904,Тюмень,51,451895,258295,174.95,complete plan
+branch00904,Тюмень,51,148659,258295,57.55,not complete plan
+branch00904,Тюмень,51,449146,258295,173.89,complete plan
+branch00904,Тюмень,51,270716,258295,104.81,complete plan
+branch00908,Красноярск,5,31970,287855,11.11,not complete plan
+branch00911,Уфа,65,219726,15380,1428.65,complete plan
+branch00911,Уфа,65,338814,15380,2202.95,complete plan
+branch00911,Уфа,65,18202,15380,118.35,complete plan
+branch00913,Казань,22,167263,286414,58.4,not complete plan
+branch00916,Тюмень,97,46185,10162,454.49,complete plan
+branch00917,Саратов,7,212713,138454,153.63,complete plan
+branch00917,Саратов,7,158923,138454,114.78,complete plan
+branch00917,Саратов,7,475463,138454,343.41,complete plan
+branch00917,Саратов,7,286907,138454,207.22,complete plan
+branch00918,Уфа,82,216848,126628,171.25,complete plan
+branch00919,Казань,79,222593,188538,118.06,complete plan
+branch00919,Казань,79,293410,188538,155.62,complete plan
+branch00923,Волгоград,8,465143,209090,222.46,complete plan
+branch00924,Пермь,49,93728,271893,34.47,not complete plan
+branch00927,Волгоград,32,288418,42229,682.99,complete plan
+branch00929,Ростов-на-Дону,63,207916,164343,126.51,complete plan
+branch00930,Челябинск,50,413033,160477,257.38,complete plan
+branch00933,Воронеж,67,465192,282788,164.5,complete plan
+branch00934,Саратов,56,194842,185122,105.25,complete plan
+branch00934,Саратов,56,101820,185122,55.0,not complete plan
+branch00936,Ижевск,20,304478,78144,389.64,complete plan
+branch00936,Ижевск,20,493116,78144,631.04,complete plan
+branch00937,Омск,9,40211,187690,21.42,not complete plan
+branch00937,Омск,9,137188,187690,73.09,not complete plan
+branch00937,Омск,9,116497,187690,62.07,not complete plan
+branch00937,Омск,9,54555,187690,29.07,not complete plan
+branch00939,Тюмень,16,267530,196350,136.25,complete plan
+branch00939,Тюмень,16,164684,196350,83.87,not complete plan
+branch00939,Тюмень,16,476283,196350,242.57,complete plan
+branch00941,Ростов-на-Дону,13,60496,94446,64.05,not complete plan
+branch00941,Ростов-на-Дону,13,332166,94446,351.7,complete plan
+branch00941,Ростов-на-Дону,13,41082,94446,43.5,not complete plan
+branch00942,Нижний Новгород,37,29052,219493,13.24,not complete plan
+branch00942,Нижний Новгород,37,32309,219493,14.72,not complete plan
+branch00942,Нижний Новгород,37,348302,219493,158.68,complete plan
+branch00943,Волгоград,68,257257,18026,1427.14,complete plan
+branch00943,Волгоград,68,465938,18026,2584.81,complete plan
+branch00943,Волгоград,68,55012,18026,305.18,complete plan
+branch00945,Новосибирск,31,245817,125608,195.7,complete plan
+branch00947,Москва,56,428010,118724,360.51,complete plan
+branch00947,Москва,56,241932,118724,203.78,complete plan
+branch00947,Москва,56,48979,118724,41.25,not complete plan
+branch00949,Саратов,50,161764,272573,59.35,not complete plan
+branch00950,Самара,52,377116,96596,390.41,complete plan
+branch00952,Самара,6,92806,200199,46.36,not complete plan
+branch00954,Уфа,21,100824,204708,49.25,not complete plan
+branch00955,Казань,7,305620,142107,215.06,complete plan
+branch00957,Казань,100,312874,33473,934.71,complete plan
+branch00957,Казань,100,427021,33473,1275.72,complete plan
+branch00957,Казань,100,257501,33473,769.28,complete plan
+branch00958,Краснодар,60,471712,33145,1423.18,complete plan
+branch00958,Краснодар,60,316200,33145,953.99,complete plan
+branch00959,Ижевск,3,140048,64682,216.52,complete plan
+branch00960,Новосибирск,5,29555,18350,161.06,complete plan
+branch00960,Новосибирск,5,468861,18350,2555.1,complete plan
+branch00960,Новосибирск,5,109627,18350,597.42,complete plan
+branch00962,Казань,73,80359,68707,116.96,complete plan
+branch00963,Ижевск,70,486983,226510,214.99,complete plan
+branch00964,Пермь,17,206831,240948,85.84,not complete plan
+branch00964,Пермь,17,392809,240948,163.03,complete plan
+branch00965,Ростов-на-Дону,33,166035,207362,80.07,not complete plan
+branch00965,Ростов-на-Дону,33,347282,207362,167.48,complete plan
+branch00967,Санкт-Петербург,33,139284,294933,47.23,not complete plan
+branch00968,Пермь,84,216172,140507,153.85,complete plan
+branch00971,Краснодар,79,282051,115738,243.7,complete plan
+branch00971,Краснодар,79,374533,115738,323.6,complete plan
+branch00976,Пермь,3,26326,280791,9.38,not complete plan
+branch00976,Пермь,3,391269,280791,139.35,complete plan
+branch00976,Пермь,3,459847,280791,163.77,complete plan
+branch00978,Самара,76,415308,79913,519.7,complete plan
+branch00978,Самара,76,322270,79913,403.28,complete plan
+branch00980,Новосибирск,70,100797,63005,159.98,complete plan
+branch00980,Новосибирск,70,486574,63005,772.28,complete plan
+branch00981,Красноярск,11,139247,276217,50.41,not complete plan
+branch00981,Красноярск,11,80028,276217,28.97,not complete plan
+branch00981,Красноярск,11,40792,276217,14.77,not complete plan
+branch00983,Саратов,67,222875,156219,142.67,complete plan
+branch00986,Санкт-Петербург,84,463670,268958,172.39,complete plan
+branch00986,Санкт-Петербург,84,467331,268958,173.76,complete plan
+branch00986,Санкт-Петербург,84,398746,268958,148.26,complete plan
+branch00986,Санкт-Петербург,84,403265,268958,149.94,complete plan
+branch00987,Воронеж,50,230390,112148,205.43,complete plan
+branch00988,Омск,98,298543,112726,264.84,complete plan
+branch00988,Омск,98,160599,112726,142.47,complete plan
+branch00988,Омск,98,218792,112726,194.09,complete plan
+branch00990,Новосибирск,47,77650,282279,27.51,not complete plan
+branch00990,Новосибирск,47,136211,282279,48.25,not complete plan
+branch00991,Самара,96,353718,113734,311.0,complete plan
+branch00992,Екатеринбург,77,228370,195654,116.72,complete plan
+branch00992,Екатеринбург,77,177320,195654,90.63,complete plan
+branch00996,Нижний Новгород,90,190572,28659,664.96,complete plan
+branch00998,Краснодар,83,321633,268232,119.91,complete plan
